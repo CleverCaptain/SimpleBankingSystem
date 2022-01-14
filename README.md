@@ -5,7 +5,7 @@ Project from hyperskill.org for Simple Banking System
 - This is a banking system in which one can create new accounts, view their balance and transfer money to other accounts
 - Project was originally created for my own learning experience
 
-##Programming Language
+## Programming Language
 - Project is created using java 16
 - Sqlite database with JDBC driver is used to store data
 
